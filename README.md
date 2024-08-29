@@ -1,2 +1,3 @@
 # 5-Days-HTML-Challenge
-Moving towards another challlenge in HTML. I hoipe this challenge will covers all advanced topics of HTML. I want to go deep in my basics.
+
+### HTML (Hypertext Markup Language) has come a long way since Tim Berners-Lee invented it back in 1991. Today HTML5 is the standard version and it's supported by all modern web browsers.
