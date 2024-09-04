@@ -18,7 +18,7 @@
 
 `Please read readme of specified day.`
 
-### DAY-5:- ADVANCE TAGS
+### DAY-5:- SEMANTIC TAGS
 
 `Please read readme of specified day.`
 
